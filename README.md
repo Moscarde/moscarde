@@ -6,4 +6,4 @@
 <!--![Moscarde's GitHub stats](https://github-readme-stats.vercel.app/api?username=moscarde&show_icons=true&theme=radical)-->
 ## Tecnologias que estou estudando:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moscarde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Moscarde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)
+[![moscarde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)

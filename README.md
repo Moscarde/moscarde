@@ -1,5 +1,5 @@
 ## Olá! eu sou o Gabriel Moscarde 😃
-Tenho 23 anos e trabalho da área de marcenaria 🔨, busco com os estudos me tornar um desenvolvedor Front-End 👨‍💻
+Tenho 23 anos e trabalho na área de marcenaria 🔨, busco com os estudos me tornar um desenvolvedor Front-End 👨‍💻
 
 ## Minhas redes
 [![Instagram Estudo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/primeirocodigo/)

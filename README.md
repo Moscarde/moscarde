@@ -8,5 +8,8 @@ Tenho 23 anos e trabalho da área de marcenaria 🔨, busco com os estudos me to
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/moscarde)
 <!--![Moscarde's GitHub stats](https://github-readme-stats.vercel.app/api?username=moscarde&show_icons=true&theme=radical)-->
 ## Tecnologias que estou estudando:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moscarde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![moscarde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moscarde&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+
+

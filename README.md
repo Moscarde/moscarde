@@ -10,6 +10,5 @@ Tenho 24 anos e atualmente trabalho na área de marcenaria 🔨, busco com os es
 ## Tecnologias que estou estudando:
 
 [![moscarde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moscarde&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 

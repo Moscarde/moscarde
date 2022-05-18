@@ -1,5 +1,5 @@
 ## Olá! eu sou o Gabriel Moscarde 😃
-Tenho 23 anos e trabalho na área de marcenaria 🔨, busco com os estudos me tornar um desenvolvedor Front-End 👨‍💻
+Tenho 24 anos e atualmente trabalho na área de marcenaria 🔨, busco com os estudos me tornar um desenvolvedor Front-End 👨‍💻
 
 ## Minhas redes
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmoscarde/)

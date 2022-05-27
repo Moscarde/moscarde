@@ -1,5 +1,10 @@
 ## Olá! eu sou o Gabriel Moscarde 😃
-Tenho 24 anos e atualmente trabalho na área de marcenaria 🔨, busco com os estudos me tornar um desenvolvedor Front-End 👨‍💻
+Tenho 24 anos e atualmente trabalho na área de marcenaria 🔨
+
+Tecnologias que estou estudando:
+- HTML/CSS
+- Javascript
+- Análise de dados (pandas - python)
 
 ## Minhas redes
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmoscarde/)
@@ -7,8 +12,6 @@ Tenho 24 anos e atualmente trabalho na área de marcenaria 🔨, busco com os es
 [![Instagram Pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/gabrielmoscarde/)
 
 <!--![Moscarde's GitHub stats](https://github-readme-stats.vercel.app/api?username=moscarde&show_icons=true&theme=radical)-->
-## Tecnologias que estou estudando:
-
 [![moscarde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)
 
 

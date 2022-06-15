@@ -4,7 +4,6 @@ Tenho 24 anos e atualmente trabalho na área de marcenaria 🔨
 Tecnologias que estou estudando:
 - HTML/CSS
 - Javascript
-- Análise de dados (pandas - python)
 
 ## Minhas redes
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmoscarde/)

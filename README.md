@@ -12,7 +12,7 @@ Tecnologias que estou estudando:
 [![Instagram Pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/gabrielmoscarde/)
 
 <!--![Moscarde's GitHub stats](https://github-readme-stats.vercel.app/api?username=moscarde&show_icons=true&theme=radical)-->
-## Meu WakaTime
+## Minha atividade
 [![moscarde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)
 
 

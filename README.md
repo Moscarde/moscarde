@@ -12,9 +12,11 @@
 
 ### :earth_americas: Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmoscarde/)
-[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/moscarde)
-[![Instagram Pessoal](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/gabrielmoscarde/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabrielmoscarde/)
+[![CodePen](https://img.shields.io/badge/-CodePen-333333?style=flat&logo=codepen)](https://codepen.io/moscarde)
+[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/gabrielmoscarde/)
+[![Github](https://img.shields.io/github/followers/moscarde?style=social)](https://github.com/Moscarde)
 
 
 ## Minha atividade

@@ -1,7 +1,7 @@
 ## Olá! eu sou o Gabriel Moscarde :shipit:
 
-- 📘 Cursando Engenharia de Software na UniCesumar
-- 📌 Estudando sobre Front-end
+- 📘 LongLife Learner
+- 📌 Atualmente estudando sobre temas e ferramentas Back-End
 - 🔨 Atualmente trabalho na área da marcenaria
 
 ### :rocket: Minhas Skills

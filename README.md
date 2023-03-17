@@ -22,4 +22,4 @@
 
 ## Minha atividade
 
-[![moscarde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)
+[![moscarde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde&langs_count=5)](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)

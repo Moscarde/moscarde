@@ -23,7 +23,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/gabrielmoscarde/)
 [![Github](https://img.shields.io/github/followers/moscarde?style=social)](https://github.com/Moscarde)
 
-
-## Minha atividade
-
-[![moscarde's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde&langs_count=5)](https://github-readme-stats.vercel.app/api/wakatime?username=moscarde)

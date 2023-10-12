@@ -1,12 +1,13 @@
 ## Olá! eu sou o Gabriel Moscarde :shipit:
 
 - 🎓 LongLife Learner
-- 📚 Atualmente estudando sobre dados em python
+- 📚 Atualmente estudando sobre analise de dados em python
 - 🔨 Atualmente trabalho na área da marcenaria
 
 ### :rocket: Minhas Skills
 
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=130754)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)

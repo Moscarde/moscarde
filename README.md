@@ -17,8 +17,7 @@
 
 ### :earth_americas: Onde me encontrar
 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabrielmoscarde/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/gabrielmoscarde/)
 [![CodePen](https://img.shields.io/badge/-Medium-333333?style=flat&logo=medium)](https://moscarde.medium.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/gabrielmoscarde/)
 [![Github](https://img.shields.io/github/followers/moscarde?style=social)](https://github.com/Moscarde)

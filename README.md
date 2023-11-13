@@ -1,8 +1,6 @@
 ## Olá! eu sou o Gabriel Moscarde :shipit:
 
-- 🎓 LongLife Learner
-- 📚 Atualmente estudando sobre analise de dados em python
-- 🔨 Atualmente trabalho na área da marcenaria
+Utilizo programação como ferramenta para resolver problemas e otimizar resultados a partir de analise e monitoramento de dados. Atualmente, estou estudando e trabalhando em projetos da área em paralelo ao meu trabalho principal. 
 
 ### :rocket: Minhas Skills
 

@@ -1,4 +1,4 @@
-## Olá! eu sou o Gabriel Moscarde :shipit:
+## Olá! Eu sou o Gabriel Moscarde :shipit:
 
 Utilizo programação como ferramenta para resolver problemas e otimizar resultados a partir da análise de dados. Atualmente, estou estudando e desenvolvendo projetos voluntários na área de dados em paralelo ao meu trabalho principal. 
 

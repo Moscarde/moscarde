@@ -10,6 +10,7 @@ Utilizo programação como ferramenta para resolver problemas e otimizar resulta
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=f1cb18)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=%2361DAFB)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-333333?style=flat&logo=duckdb&logoColor=%f1cb18)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=%cccccc)
 
 
 ### :earth_americas: Onde me encontrar

@@ -9,10 +9,7 @@ Utilizo programação como ferramenta para resolver problemas e otimizar resulta
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium&logoColor=08b608)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=f1cb18)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=green)
-![express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express&logoColor=%2361DAFB)
+![DuckDB](https://img.shields.io/badge/-DuckDB-333333?style=flat&logo=duckdb&logoColor=%f1cb18)
 
 
 ### :earth_americas: Onde me encontrar

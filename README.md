@@ -2,6 +2,8 @@
 
 Utilizo programação como ferramenta para resolver problemas e otimizar resultados a partir da análise de dados. Atualmente, estou estudando e desenvolvendo projetos voluntários na área de dados em paralelo ao meu trabalho principal. 
 
+[Veja meu portfólio](https://web-production-efab.up.railway.app/)
+
 ### :rocket: Minhas Skills
 
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)

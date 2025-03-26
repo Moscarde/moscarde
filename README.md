@@ -2,7 +2,6 @@
 
 Utilizo programação como ferramenta para resolver problemas e otimizar resultados a partir da análise de dados. Atualmente, estou estudando e desenvolvendo projetos voluntários na área de dados em paralelo ao meu trabalho principal. 
 
-[Veja meu portfólio](https://gabrielmoscarde.up.railway.app/)
 
 ### :rocket: Minhas Skills
 

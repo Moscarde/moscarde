@@ -2,6 +2,7 @@
 
 Utilizo programação como ferramenta para resolver problemas e otimizar resultados a partir da análise de dados. Atualmente, estou estudando e desenvolvendo projetos voluntários na área de dados em paralelo ao meu trabalho principal. 
 
+[Veja meu portfólio](https://portifolio-moscarde.vercel.app/)
 
 ### :rocket: Minhas Skills
 
@@ -21,4 +22,3 @@ Utilizo programação como ferramenta para resolver problemas e otimizar resulta
 [![CodePen](https://img.shields.io/badge/-Medium-333333?style=flat&logo=medium)](https://moscarde.medium.com/)
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/gabrielmoscarde/)
 [![Github](https://img.shields.io/github/followers/moscarde?style=social)](https://github.com/Moscarde)
-

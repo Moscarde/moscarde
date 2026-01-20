@@ -7,13 +7,16 @@ Utilizo programação como ferramenta para resolver problemas e otimizar resulta
 ### :rocket: Minhas Skills
 
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=130754)
+![Airbyte](https://img.shields.io/badge/-Airbyte-333333?style=flat&logo=airbyte&logoColor=#615EFF)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apacheairflow&logoColor=#017CEE)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=#2496ED)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=airbyte&logoColor=130754)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium&logoColor=08b608)
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi&logoColor=f1cb18)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=%2361DAFB)
+![Looker](https://img.shields.io/badge/-Looker-333333?style=flat&logo=looker&logoColor=f1ffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=%2361DAFB)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-333333?style=flat&logo=duckdb&logoColor=%f1cb18)
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=%cccccc)
-![Flask](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=%113528)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=%113528)
 
 
 ### :earth_americas: Onde me encontrar

@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Moscarde :shipit:
 
-Utilizo programação como ferramenta para resolver problemas e otimizar resultados a partir da análise de dados. Atualmente, estou estudando e desenvolvendo projetos voluntários na área de dados em paralelo ao meu trabalho principal. 
+Utilizo programação como ferramenta para resolver problemas e otimizar resultados a partir de dados.
 
 [Veja meu portfólio](https://portifolio-moscarde.vercel.app/)
 

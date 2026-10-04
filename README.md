@@ -1,10 +1,8 @@
-![Gabriel Moscarde — Da fonte ao insight, com café e retry.](assets/profile-banner.svg)
-
-## Oi, eu sou o Gabriel 👋
+![Gabriel Moscarde — Engenharia de dados em saúde pública.](assets/profile-banner.svg)
 
 Sou engenheiro de dados na **Secretaria Municipal de Saúde do Rio de Janeiro**. Meu dia a dia envolve conectar sistemas, organizar dados de saúde e construir pipelines que alimentam análises para a gestão pública.
 
-Gosto de entender o caminho inteiro: de onde o dado vem, o que precisa acontecer no meio e como ele chega a quem vai usar. Nesse percurso, trabalho com integração, orquestração, modelagem e qualidade de dados — e às vezes descubro que o problema era um espaço no nome da coluna.
+Gosto de entender o caminho inteiro: de onde o dado vem, o que precisa acontecer no meio e como ele chega a quem vai usar. Nesse percurso, trabalho com integração, orquestração, modelagem e qualidade de dados.
 
 [**🌐 Portfólio**](https://portifolio-moscarde.vercel.app/) · [**💬 LinkedIn**](https://www.linkedin.com/in/moscarde/) · [**✍️ Artigos**](https://moscarde.medium.com/)
 

@@ -1,47 +1,33 @@
-# Gabriel Moscarde
+![Gabriel Moscarde — Da fonte ao insight, com café e retry.](assets/profile-banner.svg)
 
-**Engenharia de dados · Saúde pública · Arquitetura analítica**
+## Oi, eu sou o Gabriel 👋
 
-Construo pipelines e modelos analíticos para conectar sistemas de saúde a informação utilizável na gestão pública.
+Sou engenheiro de dados na **Secretaria Municipal de Saúde do Rio de Janeiro**. Meu dia a dia envolve conectar sistemas, organizar dados de saúde e construir pipelines que alimentam análises para a gestão pública.
 
-Atuo como engenheiro de dados na Secretaria Municipal de Saúde do Rio de Janeiro, com integração de sistemas, orquestração, qualidade de dados e disponibilização para análise.
+Gosto de entender o caminho inteiro: de onde o dado vem, o que precisa acontecer no meio e como ele chega a quem vai usar. Nesse percurso, trabalho com integração, orquestração, modelagem e qualidade de dados — e às vezes descubro que o problema era um espaço no nome da coluna.
 
-[Portfólio](https://portifolio-moscarde.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/moscarde/) · [Artigos](https://moscarde.medium.com/)
+[**🌐 Portfólio**](https://portifolio-moscarde.vercel.app/) · [**💬 LinkedIn**](https://www.linkedin.com/in/moscarde/) · [**✍️ Artigos**](https://moscarde.medium.com/)
 
-## Projetos em destaque
+### 🧰 Na bancada
 
-### [Raio-X Municipal — engenharia de dados](https://github.com/Moscarde/raio-x-engenharia)
-
-Ingestão de fontes públicas como DATASUS, IBGE e FNS, com modelos analíticos por município. Um projeto que conecta coleta, armazenamento e transformação de dados de saúde.
-
-`Python` `Airflow` `dbt` `PostgreSQL` `MinIO`
-
-### [BI por templates](https://github.com/Moscarde/Template-Based-BI-Distribution)
-
-Prova de conceito para distribuir dashboards a partir de um template comum, com metadados dinâmicos e contexto por unidade. Explora uma alternativa à manutenção de múltiplas cópias do mesmo painel.
-
-`Django` `React` `PostgreSQL` `Docker`
-
-### [pandas × Polars × DuckDB](https://github.com/Moscarde/data-engines-benchmark)
-
-Comparação de tempo e memória na execução de um mesmo ETL com três engines. Código, análise e aprendizados para fundamentar escolhas de processamento.
-
-`Python` `pandas` `Polars` `DuckDB`
-
-## Tecnologias que uso
-
-| Etapa | Ferramentas |
+| Para fazer o quê? | Com o quê? |
 | --- | --- |
-| Integração e ingestão | Python, SQL, APIs, Airbyte |
-| Orquestração e infraestrutura | Apache Airflow, Docker |
-| Transformação e modelagem | dbt, PostgreSQL |
-| Processamento e análise | pandas, Polars, DuckDB |
-| Aplicações e BI | Django, Flask, Looker Studio |
+| Buscar e conectar dados | Python · SQL · APIs · Airbyte |
+| Colocar as rotinas para rodar | Apache Airflow · Docker |
+| Transformar e modelar | dbt · PostgreSQL · pandas · Polars · DuckDB |
+| Entregar aplicações e análises | Django · Flask · Looker Studio |
 
-## Temas que exploro
+### 🤖 Também tem IA no workflow
 
-- Qualidade, rastreabilidade e observabilidade de pipelines.
-- Modelagem de dados públicos de saúde para consumo analítico.
-- Arquiteturas de BI e comparação de ferramentas com experimentos reproduzíveis.
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square)
 
-Compartilho projetos e aprendizados de implementação por aqui e nos meus artigos.
+**Claude e Codex** fazem parte da minha caixa de ferramentas de desenvolvimento. Entre código, ideias e documentação, também exploro como trabalhar com agentes de IA no dia a dia da engenharia de dados.
+
+> A IA sugere. Eu reviso. O pipeline dá seu parecer às 3 da manhã.
+
+### 🔎 O que você encontra por aqui
+
+Dados públicos de saúde, experimentos com ferramentas de processamento, arquitetura de BI e aprendizados de implementação. Gosto de transformar uma dúvida técnica em um projeto que dê para abrir, entender e testar.
+
+**Alguns desses projetos estão fixados logo abaixo. ↓**

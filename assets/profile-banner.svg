@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Gabriel Moscarde — Engenharia de dados em saúde pública</title>
+<desc id="desc">Da fonte ao insight, com café e retry. Pipeline de fonte, modelo e insight.</desc>
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#101827"/><stop offset="1" stop-color="#1e1836"/></linearGradient>
+<linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="20" fill="#101827"/>
+<rect x="48" y="50" width="5" height="176" rx="2.5" fill="#5eead4"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="76" y="76" fill="#5eead4" font-size="15" letter-spacing="3">ENGENHARIA DE DADOS · SAÚDE PÚBLICA</text>
+<text x="72" y="140" fill="#f8fafc" font-size="48" font-weight="700">Gabriel Moscarde</text>
+<text x="76" y="185" fill="#cbd5e1" font-size="23">Da fonte ao insight, com café e retry.</text>
+<text x="76" y="226" fill="#94a3b8" font-size="15">Rio de Janeiro · Python · SQL · Airflow · dbt</text>
+<g transform="translate(748 107)">
+<path d="M104 44H144 M248 44H288" stroke="#c4b5fd" stroke-width="2"/>
+<path d="m136 39 8 5-8 5 M280 39l8 5-8 5" fill="none" stroke="#c4b5fd" stroke-width="2"/>
+<rect width="104" height="88" rx="14" fill="#142f36" stroke="#5eead4" stroke-opacity=".5"/>
+<rect x="144" width="104" height="88" rx="14" fill="#222b42" stroke="#93c5fd" stroke-opacity=".5"/>
+<rect x="288" width="104" height="88" rx="14" fill="#302648" stroke="#c4b5fd" stroke-opacity=".5"/>
+<g text-anchor="middle" font-size="16" font-weight="700"><text x="52" y="51" fill="#5eead4">fonte</text><text x="196" y="51" fill="#93c5fd">modelo</text><text x="340" y="51" fill="#c4b5fd">insight</text></g>
+<text x="196" y="125" text-anchor="middle" fill="#94a3b8" font-size="13" font-family="DejaVu Sans Mono, monospace">status: running (coffee required)</text>
+</g></g>
+<rect x="48" y="279" width="1104" height="2" rx="1" fill="#5eead4" opacity=".65"/>
+</svg>

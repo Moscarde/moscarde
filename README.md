@@ -1,27 +1,47 @@
-## Sou Gabriel Moscarde, engenheiro de dados com atuação em saúde pública na Secretaria Municipal de Saúde do Rio de Janeiro.
+# Gabriel Moscarde
 
-Trabalho com integração de sistemas, orquestração de pipelines e modelagem analítica. Aqui compartilho projetos de dados públicos de saúde, arquitetura de BI e experimentos de processamento de dados.
+**Engenharia de dados · Saúde pública · Arquitetura analítica**
 
-[Veja meu portfólio](https://portifolio-moscarde.vercel.app/)
+Construo pipelines e modelos analíticos para conectar sistemas de saúde a informação utilizável na gestão pública.
 
-### :rocket: Minhas Skills
+Atuo como engenheiro de dados na Secretaria Municipal de Saúde do Rio de Janeiro, com integração de sistemas, orquestração, qualidade de dados e disponibilização para análise.
 
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
-![Airbyte](https://img.shields.io/badge/-Airbyte-333333?style=flat&logo=airbyte&logoColor=#615EFF)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apacheairflow&logoColor=#017CEE)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=#2496ED)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=airbyte&logoColor=130754)
-![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium&logoColor=08b608)
-![Looker](https://img.shields.io/badge/-Looker-333333?style=flat&logo=looker&logoColor=f1ffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=%2361DAFB)
-![DuckDB](https://img.shields.io/badge/-DuckDB-333333?style=flat&logo=duckdb&logoColor=%f1cb18)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=%cccccc)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=%113528)
+[Portfólio](https://portifolio-moscarde.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/moscarde/) · [Artigos](https://moscarde.medium.com/)
 
+## Projetos em destaque
 
-### :earth_americas: Onde me encontrar
+### [Raio-X Municipal — engenharia de dados](https://github.com/Moscarde/raio-x-engenharia)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0072b1)](https://www.linkedin.com/in/gabrielmoscarde/)
-[![CodePen](https://img.shields.io/badge/-Medium-333333?style=flat&logo=medium)](https://moscarde.medium.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/gabrielmoscarde/)
-[![Github](https://img.shields.io/github/followers/moscarde?style=social)](https://github.com/Moscarde)
+Ingestão de fontes públicas como DATASUS, IBGE e FNS, com modelos analíticos por município. Um projeto que conecta coleta, armazenamento e transformação de dados de saúde.
+
+`Python` `Airflow` `dbt` `PostgreSQL` `MinIO`
+
+### [BI por templates](https://github.com/Moscarde/Template-Based-BI-Distribution)
+
+Prova de conceito para distribuir dashboards a partir de um template comum, com metadados dinâmicos e contexto por unidade. Explora uma alternativa à manutenção de múltiplas cópias do mesmo painel.
+
+`Django` `React` `PostgreSQL` `Docker`
+
+### [pandas × Polars × DuckDB](https://github.com/Moscarde/data-engines-benchmark)
+
+Comparação de tempo e memória na execução de um mesmo ETL com três engines. Código, análise e aprendizados para fundamentar escolhas de processamento.
+
+`Python` `pandas` `Polars` `DuckDB`
+
+## Tecnologias que uso
+
+| Etapa | Ferramentas |
+| --- | --- |
+| Integração e ingestão | Python, SQL, APIs, Airbyte |
+| Orquestração e infraestrutura | Apache Airflow, Docker |
+| Transformação e modelagem | dbt, PostgreSQL |
+| Processamento e análise | pandas, Polars, DuckDB |
+| Aplicações e BI | Django, Flask, Looker Studio |
+
+## Temas que exploro
+
+- Qualidade, rastreabilidade e observabilidade de pipelines.
+- Modelagem de dados públicos de saúde para consumo analítico.
+- Arquiteturas de BI e comparação de ferramentas com experimentos reproduzíveis.
+
+Compartilho projetos e aprendizados de implementação por aqui e nos meus artigos.

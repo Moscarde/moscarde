@@ -1,6 +1,6 @@
-## Olá! Eu sou o Gabriel Moscarde :shipit:
+## Sou Gabriel Moscarde, engenheiro de dados com atuação em saúde pública na Secretaria Municipal de Saúde do Rio de Janeiro.
 
-Utilizo programação como ferramenta para resolver problemas e otimizar resultados a partir de dados.
+Trabalho com integração de sistemas, orquestração de pipelines e modelagem analítica. Aqui compartilho projetos de dados públicos de saúde, arquitetura de BI e experimentos de processamento de dados.
 
 [Veja meu portfólio](https://portifolio-moscarde.vercel.app/)
 

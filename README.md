@@ -22,8 +22,6 @@ Gosto de entender o caminho inteiro: de onde o dado vem, o que precisa acontecer
 
 **Claude e Codex** fazem parte da minha caixa de ferramentas de desenvolvimento. Entre código, ideias e documentação, também exploro como trabalhar com agentes de IA no dia a dia da engenharia de dados.
 
-> A IA sugere. Eu reviso. O pipeline dá seu parecer às 3 da manhã.
-
 ### 🔎 O que você encontra por aqui
 
 Dados públicos de saúde, experimentos com ferramentas de processamento, arquitetura de BI e aprendizados de implementação. Gosto de transformar uma dúvida técnica em um projeto que dê para abrir, entender e testar.
